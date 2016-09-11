@@ -1,0 +1,4 @@
+2 players (both automatic)
+One with fixed hand and card, second - random.
+They play 1st round.
+We look how the value of Q-function will change after 1 move.
